@@ -10,6 +10,7 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 
 # Veri Setleri ve Açıklamaları
 
+|Dosya|Açıklama|
 |----|----|
 |bulmaca.sql|Bulmacalarda sorulan sorular|
 |deyimler.sql|Deyimler sözlüğü|
