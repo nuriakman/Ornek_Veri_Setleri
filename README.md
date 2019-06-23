@@ -18,3 +18,5 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |referandum.sql|Referandum Sonuçları|
 |ReferandumSonucu.xlsx|eferandum Sonuçları|
 |tercihrobotu.sql|Üniversitelerin bölüm bilgileri|
+|il_ilce_semt_mahalle_koy.xls|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
+|il_ilce_semt_mah_pk_utf8.sql|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
