@@ -20,3 +20,4 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |tercihrobotu.sql|Üniversitelerin bölüm bilgileri|
 |il_ilce_semt_mahalle_koy.xls|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
 |il_ilce_semt_mah_pk_utf8.sql|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
+|Türkçe İsimler Sözlüğü.xlsx|Türkçe İsimler Sözlüğü|
