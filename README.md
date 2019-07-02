@@ -10,6 +10,7 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 
 # Veri Setleri ve Açıklamaları
 
+|Dosya|Açıklama|
 |----|----|
 |bulmaca.sql|Bulmacalarda sorulan sorular|
 |deyimler.sql|Deyimler sözlüğü|
@@ -17,4 +18,7 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |referandum.sql|Referandum Sonuçları|
 |ReferandumSonucu.xlsx|eferandum Sonuçları|
 |tercihrobotu.sql|Üniversitelerin bölüm bilgileri|
+|il_ilce_semt_mahalle_koy.xls|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
+|il_ilce_semt_mah_pk_utf8.sql|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
+|Türkçe İsimler Sözlüğü.xlsx|Türkçe İsimler Sözlüğü|
 |il_ilce_listesi.xls|[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, İl-İlçe Listesi](https://www.nvi.gov.tr/hakkimizda/projeler/mernis/il-ilce-kod-tablosu)|
