@@ -17,3 +17,4 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |referandum.sql|Referandum Sonuçları|
 |ReferandumSonucu.xlsx|eferandum Sonuçları|
 |tercihrobotu.sql|Üniversitelerin bölüm bilgileri|
+|il_ilce_listesi.xls|[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, İl-İlçe Listesi](https://www.nvi.gov.tr/hakkimizda/projeler/mernis/il-ilce-kod-tablosu)|
