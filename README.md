@@ -20,5 +20,5 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |[./tercihrobotu.sql](tercihrobotu.sql)|Üniversitelerin bölüm bilgileri|
 |[./il_ilce_semt_mahalle_koy.xls](il_ilce_semt_mahalle_koy.xls)|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
 |[./il_ilce_semt_mah_pk_utf8.sql](il_ilce_semt_mah_pk_utf8.sql)|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
-|[./Türkçe İsimler Sözlüğü.xlsx](Türkçe İsimler Sözlüğü.xlsx)|Türkçe İsimler Sözlüğü|
+|[./Türkçe\ İsimler\ Sözlüğü.xlsx](Türkçe İsimler Sözlüğü.xlsx)|Türkçe İsimler Sözlüğü|
 |[./il_ilce_listesi.xls](il_ilce_listesi.xls)|[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, İl-İlçe Listesi](https://www.nvi.gov.tr/hakkimizda/projeler/mernis/il-ilce-kod-tablosu)|
