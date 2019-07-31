@@ -29,3 +29,4 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 
 
 [Güncel Türkçe Sözlük](https://github.com/ogun/guncel-turkce-sozluk)
+[Türkçe imla kılavuzu ve sözlük](https://github.com/emrahcom/turkce_kelimeler)
