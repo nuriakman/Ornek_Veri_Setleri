@@ -19,6 +19,7 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |referandum.sql|Referandum Sonuçları|
 |ReferandumSonucu.xlsx|Referandum Sonuçları|
 |tercihrobotu.sql|Üniversitelerin bölüm bilgileri|
+|turkiye_il_ilce.sql|Türkiye'nin il ve ilçeleri|
 |il_ilce_semt_mahalle_koy.xls|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
 |il_ilce_semt_mah_pk_utf8.sql|Türkiye'nin İl, İlçe, Semt-Mahalle ve Köylerinin listesi|
 |imla_kilavuzu.txt|Türkçe İmla Kılavuzu [Kaynak](https://github.com/emrahcom/turkce_kelimeler)|
