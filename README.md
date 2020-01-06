@@ -28,6 +28,6 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |il_ilce_listesi.xls|[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, İl-İlçe Listesi](https://www.nvi.gov.tr/hakkimizda/projeler/mernis/il-ilce-kod-tablosu)|
 
 
-
-[Güncel Türkçe Sözlük](https://github.com/ogun/guncel-turkce-sozluk)
-[Türkçe imla kılavuzu ve sözlük](https://github.com/emrahcom/turkce_kelimeler)
+## Ek Kaynaklar
+- [Güncel Türkçe Sözlük](https://github.com/ogun/guncel-turkce-sozluk)
+- [Türkçe imla kılavuzu ve sözlük](https://github.com/emrahcom/turkce_kelimeler)
