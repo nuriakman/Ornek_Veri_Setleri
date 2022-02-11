@@ -8,7 +8,7 @@ Burada paylaşılan veri setleri içindeki verilerin doğruluğu garanti edilmez
 
 Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 
-# Veri Setleri ve Açıklamaları
+## Veri Setleri ve Açıklamaları
 
 |Dosya|Açıklama|
 |----|----|
@@ -26,6 +26,15 @@ Bu verileri tamamen eğitim amaçlı kullanılması tavsiye edilir.
 |Türkçe İsimler Sözlüğü.xlsx|Türkçe İsimler Sözlüğü|
 |turkce_sozluk.sql|Türkçe Sözlük [Kaynak](https://github.com/maidis/mythes-tr)|
 |il_ilce_listesi.xls|[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, İl-İlçe Listesi](https://www.nvi.gov.tr/hakkimizda/projeler/mernis/il-ilce-kod-tablosu)|
+
+## Resmi MySQL Örnek Veri Tabanları (İngilizce)
+- Farklı formatlarda indirmek için: https://dev.mysql.com/doc/index-other.html
+- Sakila Database ([documentation](https://dev.mysql.com/doc/sakila/en/), [download](https://downloads.mysql.com/docs/sakila-db.zip))
+- World Database ([documentation](https://dev.mysql.com/doc/world-setup/en/), [download](https://downloads.mysql.com/docs/world_x-db.zip))
+- Employee Data ([documentation](https://dev.mysql.com/doc/employee/en/), [download](https://github.com/datacharmer/test_db))
+
+## Sakila Database Şeması
+![Sakila Database](https://www.jooq.org/img/sakila.png)
 
 
 ## Ek Kaynaklar
